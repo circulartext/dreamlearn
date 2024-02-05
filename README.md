@@ -1,7 +1,7 @@
 Pygame EOG Visualization Challenge - 2/5/24
 Overview
 Create a pygame simulation that transforms EOG (Electrooculography) data into a visual representation. Follow the steps below to set up the project.
-
+  
 Step 1: Download EDF File
 Download the required .edf file from PhysioNet.
 https://physionet.org/content/sleep-edfx/1.0.0/sleep-cassette/#files-panel
